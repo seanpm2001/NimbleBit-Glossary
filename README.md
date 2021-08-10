@@ -82,6 +82,28 @@ See above. <extendedRepoDescription>
 
 ***
 
+## NimbleBit glossary
+
+Here is a glossary of NimbleBit terms:
+
+**Bux** - A digital premium currency in NimbleBit games used to purchase powerful upgrades, and speed up actions/tasks.
+
+**Bitizen** - A small pixelated person that lives in your city/tower.
+
+**BitBook** - A social media platform for your Bitizens
+
+**BrickBook** - A social media platform for your bitizens (only in Lego Tower)
+
+**Coins** - The common currency in NimbleBit games used for most actions.
+
+**FPS** - Floors per second, applies to elevators
+
+**Holonet** - A social media platform for your bitizens (only in Star Wars: Tiny Death Star)
+
+**PPM** - An old measure for elevator speeds
+
+***
+
 ## Wiki
 
 [Click/tap here to view this projects Wiki](https://github.com/seanpm2001/<repoName>/wiki)
